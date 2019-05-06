@@ -24,6 +24,10 @@
   min-height: 1000vh;
 }
 
+.chats__list .chats__chat {
+  margin: 15px 0px;
+}
+
 .chat__write--container {
   position: fixed;
   bottom: 0px;
