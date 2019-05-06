@@ -11,6 +11,8 @@
 @import "chat.css";
 @import "mobile.css";
 
+@import "popup.css";
+
 * {
   box-sizing: border-box;
 }
