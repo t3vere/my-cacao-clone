@@ -1,6 +1,7 @@
 .music {
   position: absolute;
   background-color: #eee;
+  top: 440px;
   right: 20px;
   width: 200px;
   height: 50px;
